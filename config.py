@@ -1,1 +1,2 @@
-BOT_TOKEN = "сюда_потом_вставим_токен"
+BOT_TOKEN = "8532781344:AAHbHvXX4Yiw2cvRtyDHV9vFydc2WRWlhwg"
+
